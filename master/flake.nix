@@ -11,7 +11,6 @@
   inputs.src-cmixer-master.ref   = "refs/heads/master";
   inputs.src-cmixer-master.owner = "rxi";
   inputs.src-cmixer-master.repo  = "cmixer-nim";
-  inputs.src-cmixer-master.dir   = "";
   inputs.src-cmixer-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
