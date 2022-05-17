@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652367034,
-        "narHash": "sha256-C6djsvaMT/RdyGuzvRBKcA0ieN/3cZAU3FZbmFqXfBI=",
+        "lastModified": 1652390939,
+        "narHash": "sha256-Lc3m19Aw4bxQmq34yc1K6CgU87EGDWodoOhO92BgLoM=",
         "owner": "nim-nix-pkgs",
         "repo": "cmixer",
-        "rev": "3c0093436cfdf402a9972ff1fd9db7d9d9f9be3a",
+        "rev": "ef4a7da37b294da68a51bf7621280698358853a1",
         "type": "github"
       },
       "original": {
